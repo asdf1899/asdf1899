@@ -1,5 +1,5 @@
 <h2 markdown="1"> Hi, I'm Anas Araid</h2>
-<img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120">
 <p>
     🎓 <em>UX Design Student at <a href="http://www.unitn.it">University of Trento</a></em>
     </br>
