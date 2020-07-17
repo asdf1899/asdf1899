@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2 markdown="1"> Hi, I'm Anas Araid</h2>
+<img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230">
+<p>
+    🎓 <em>UX design student at <a href="http://www.unitn.it">University of Trento</a></em>
+    </br>
+    👨🏽‍💻 <em>Developer</em>
+    </br>
+    🚒 <em>Firefighter VVF Pergine Valsugana</em> 
+</p>
+</br>
 
-<!--
-**asdf1899/asdf1899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub asdf1899](https://img.shields.io/github/followers/asdf1899?label=follow&style=social)](https://github.com/asdf1899)
+[![Linkedin: anasaraid](https://img.shields.io/badge/-anasaraid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://it.linkedin.com/in/anas-araid)](https://www.linkedin.com/in/thaianebraga/)
+[![Website: anasaraid.me](https://img.shields.io/static/v1?label=website&logoColor=white&message=anasaraid.me&style=flat&logo=google&color=red)](https://anasaraid.me)
