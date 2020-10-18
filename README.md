@@ -1,5 +1,4 @@
 <h2 markdown="1"> Hi, I'm Anas Araid</h2>
-<img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120">
 <p>
     🎓 <em>UX Design Student at <a href="http://www.unitn.it">University of Trento</a></em>
     </br>
@@ -9,11 +8,11 @@
 </p>
 </br>
 <p align="left"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=asdf1899&count_private=true&show_icons=true&theme=tokyonight" alt="asdf1899" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=asdf1899&count_private=true&show_icons=true" alt="asdf1899" /> 
 </p>
-<!-- <p align="left"> 
+<p align="left"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdf1899&layout=compact&hide=css" alt="asdf1899" /> 
-</p> -->
+</p>
 
 [![GitHub asdf1899](https://img.shields.io/github/followers/asdf1899?label=follow&style=social)](https://github.com/asdf1899)
 [![Linkedin: anasaraid](https://img.shields.io/badge/-anasaraid-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://it.linkedin.com/in/anas-araid)
