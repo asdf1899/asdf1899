@@ -11,7 +11,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=asdf1899&count_private=true&show_icons=true" alt="asdf1899" /> 
 </p>
 <p align="left"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdf1899&layout=compact&hide=css" alt="asdf1899" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdf1899&layout=compact&hide=css,html" alt="asdf1899" /> 
 </p>
 
 [![GitHub asdf1899](https://img.shields.io/github/followers/asdf1899?label=follow&style=social)](https://github.com/asdf1899)
